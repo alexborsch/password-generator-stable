@@ -2,7 +2,7 @@
 ### Stable version
 
 
-![](https://coderlog.top/files/images/sys/p_gen.ico)
+![](https://github.com/alexborsch/password-generator-stable/blob/master/p_gen.ico)
 
 
 #### Programming language: *Python*
@@ -16,7 +16,7 @@
 *A program for generating strong passwords of any length.
 The source code for the stable version of the application is loaded into this repository. Unstable nightly builds are in this repository [Password Generator Nightly](https://github.com/alexborsch/password-generator-nightly "Password Generator Nightly").*
 ##### *Program interface*
-![Password Generator Interface](https://coderlog.top/files/images/sys/password_gen.jpg "Password Generator Interface")
+![Password Generator Interface](https://github.com/alexborsch/password-generator-stable/blob/master/img/password_gen.jpg "Password Generator Interface")
 
 ##### Release Schedule
 | OS  | Date  | Version  | Link   |
