@@ -1,6 +1,5 @@
 # Password Generator
 ### Stable version
-test
 
 ![](https://github.com/alexborsch/password-generator-stable/blob/master/p_gen.ico)
 
