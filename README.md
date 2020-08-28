@@ -13,7 +13,11 @@
 ### Description:
 
 *A program for generating strong passwords of any length.
-The source code for the stable version of the application is loaded into this repository. Unstable nightly builds are in this repository [Password Generator Nightly](https://github.com/alexborsch/password-generator-nightly "Password Generator Nightly").*
+The source code for the stable version of the application is loaded into this repository. 
+
+### WARNING!
+You can always find the current version of the program in the "Releases" section. In this repository may be not working version of the program because of the active development process!
+
 ##### *Program interface*
 ![Password Generator Interface](https://github.com/alexborsch/password-generator-stable/blob/master/img/password_gen.jpg "Password Generator Interface")
 
