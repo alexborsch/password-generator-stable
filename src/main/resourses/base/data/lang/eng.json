@@ -1,0 +1,15 @@
+{
+	"button_generate": "Generate",
+	"button_clear": "Clear",
+	"button_information": "Information",
+	"length_label": "Password length",
+	"menu_savepasslist": "Save passlist",
+	"menu_file": "File",
+	"menu_settings": "Settings",
+	"menu_info": "Info",
+	"menu_exit": "Exit",
+	"menu_language": "Language",
+	"error_window": "Error",
+	"error_messages": "Saving file error",
+	"github": "GitHub Repository"
+}

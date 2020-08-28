@@ -1,0 +1,15 @@
+{
+	"button_generate": "Генерировать",
+	"button_clear": "Очистить",
+	"button_information": "Информация",
+	"length_label": "Длина пароля",
+	"menu_savepasslist": "Сохранить пароли",
+	"menu_file": "Файл",
+	"menu_settings": "Настройки",
+	"menu_info": "Информация",
+	"menu_exit": "Выход",
+	"menu_language": "Язык",
+	"error_window": "Ошибка",
+	"error_messages": "Не удалось сохранить файл",
+	"github": "GitHub репозиторий"
+}
