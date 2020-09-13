@@ -108,7 +108,8 @@ def switch_lang(lang):
 	else:
 		pass
 	
-	#srestart_program()
+	messagebox.showinfo("Information", "restart app")
+	
 
 
 '''
@@ -128,7 +129,7 @@ length_entry.insert(0, pass_length)
 number_entry.insert(0, "8")
 
 length_label = Label(text="      "+lang['length_label'])
-number_label = Label(text="      Количество паролей")
+number_label = Label(text="      "+lang['passwords'])
 length_label.grid(row=1, column=0, sticky="w")
 length_entry.grid(row=1, column=1, padx=1, pady=5)
 
